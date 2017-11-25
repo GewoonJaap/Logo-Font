@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+body{
+  background-image: url(https://i.imgur.com/eS4IxK3.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+p{
+  font-family: 'Ubuntu', sans-serif;
+  color: white;
+  text-align: left;
+}
+
+h1{
+  font-family: 'Ubuntu', sans-serif;
+  color: white;
+  text-align: center;
+}
+
+d{
+  font-family: Logo;
+  font-size: 40px;
+}
+
+
+
+@font-face {
+    font-family: Logo;
+    src: url(Logo_font-Regular.ttf);
+}
+
+div {
+    font-family: Logo;
+}
