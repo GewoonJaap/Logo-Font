@@ -4,7 +4,12 @@
 
 This font contains Logo's from famous brands! Do you miss any? Please request one in the issues. And i will add it ASAP.
 
+________________________________________________________________________________________
 
+Logo's:
+
+
+"D" Discord logo
 
 
 Free to use, no credits required
