@@ -15,7 +15,7 @@ Logo's:
 ________________________________________________________________________________________
 
 
-Site to see the fonts:
+Site to see the fonts: https://gewoonjaap.github.io/Logo-Font/
 
 
 
